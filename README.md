@@ -1,2 +1,3 @@
 # TimeTinker
-I want this application to be a completely customizable clock that accepts images, allows the user to change the direction of the time and create their own personal clock. In the future, I'd like for the user to be able to select from a multitude of themes online. There, users will be able to upload and download other player's themes!
+
+This project's goal is to make a customizable clock that displays the time in the user's preferred style. The user will be able to drag, modify and take in other users' created styles.
