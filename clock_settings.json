@@ -1,0 +1,14 @@
+{
+  "font_family": "Comic Sans MS",
+  "font_size": 20,
+  "font_weight": "bold",
+  "text_color": "#ff42a0",
+  "bg_color": "#000000",
+  "transparency": 1.0,
+  "time_format": "12h",
+  "show_date": false,
+  "show_seconds": true,
+  "date_format": "%Y-%m-%d",
+  "window_width": 300,
+  "window_height": 150
+}
